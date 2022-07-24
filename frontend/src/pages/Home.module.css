@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Feather';
+  src: url('../assets/feather_bold.ttf') format('truetype');
+}
+
+.title {
+  font-family: sans-serif;
+}
+
+.home {
+  background-image: url('../assets/cover.jpg');
+  background-size: cover;
+  display: flex;
+}
+
+.call {
+  background-image: url('../assets/videochat.gif');
+  background-size: cover;
+}
